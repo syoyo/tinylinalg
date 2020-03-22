@@ -1,0 +1,6 @@
+[submodule "third_party/OpenBLAS"]
+	path = third_party/OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS
+[submodule "third_party/lapack"]
+	path = third_party/lapack
+	url = https://github.com/Reference-LAPACK/lapack
